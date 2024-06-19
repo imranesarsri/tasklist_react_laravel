@@ -16,6 +16,8 @@ php artisan serve
 php artisan make:model Project -m
 php artisan make:model Task -m
 
+php artisan make:seeder ProjectsSeeder
+php artisan make:seeder TasksSeeder
 ```
 
 
